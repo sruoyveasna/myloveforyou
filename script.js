@@ -4,7 +4,7 @@ const questions = [
     question: "Which one is the most beautiful?",
     options: ["Mountain", "Sea", "Sunset"],
     answer: "You, Lyly ❤️",
-    resultMessage: "Nope! The most beautiful is always you, Lyly ❤️",
+    resultMessage: "Nope! The most beautiful is you, Lyly ❤️",
   },
   {
     question: "What is the most precious thing in the world?",
@@ -14,7 +14,7 @@ const questions = [
   },
   {
     question: "Who is the most amazing person I know?",
-    options: ["My Mom", "My Best Friend", "My Pet"],
+    options: ["My God", "My Friend", "My Pet"],
     answer: "You, Lyly 🌟",
     resultMessage: "Incorrect! The most amazing person is you, Lyly 🌟",
   },
